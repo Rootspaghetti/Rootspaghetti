@@ -1,4 +1,3 @@
-[![MasterHead](http://hizliresim.com/c5y57l1)
 <h1 align="center">Hi 👋, I'm Root@spaghetti</h1>
 <h3 align="center">Ethical Hacker: Bug Bounty and Cybersecurity Expert</h3>
 
