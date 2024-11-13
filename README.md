@@ -9,7 +9,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; Ethical Hacker: Bug Bounty and Cybersecurity Expert
+<h3 align="left">&nbsp; Ethical Hacker: Bug Bounty Hunter
 </h3>
 
 - 🔭 I’m currently working on [SubScanX](https://github.com/Rootspaghetti/SubScanX.git)
